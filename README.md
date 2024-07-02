@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @williamkuc
-- 👀 I’m interested in Behavior Design and Computer Science
-- 🕹 I've programmed a small browser game: https://splitscream.io
-- 🧠 And I'm leading a blog on mental health: https://psychciety.com
+- 👀 I’m interested in Behavioral Design and Computer Science
 - 📫 Contact me at: william.kuchenbuch@gmail.com
